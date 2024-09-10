@@ -145,6 +145,7 @@ ul.icon-list li { display: flex ; align-items: center; position: relative; paddi
 ul.icon-list li.icon1::before { content: ""; display: inline-block; margin-right: 15px; left: 0; top: 0; width: 20px; height: 20px; background-image: url('icon1.jpg'); background-size: cover; background-repeat: no-repeat; }
 ul.icon-list li.icon2::before { content: ""; display: inline-block; margin-right: 15px; left: 0; top: 0; width: 20px; height: 20px; background-image: url('icon2.jpg'); background-size: cover; background-repeat: no-repeat; }
 ul.icon-list li.icon3::before { content: ""; display: inline-block; margin-right: 15px; left: 0; top: 0; width: 20px; height: 20px; background-image: url('icon3.jpg'); background-size: cover; background-repeat: no-repeat; }
+ul.icon-list li.icon4::before { content: ""; display: inline-block; margin-right: 15px; left: 0; top: 0; width: 20px; height: 20px; background-image: url('icon4.jpg'); background-size: cover; background-repeat: no-repeat; }
 
 
 /* ! Cover */
